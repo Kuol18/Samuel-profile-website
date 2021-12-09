@@ -1,0 +1,94 @@
+*
+{
+    padding: o;
+    margin: 0;
+
+}
+
+body{
+    background: url(./best2.jpg);
+    background-position: 0 1000px;
+    background-size: cover;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    /* border-radius: 50%; */
+   
+}
+
+.container{
+    width: 1000px;
+    margin: 0 auto;
+    padding: 0 3rem;
+    margin-top: 2rem;
+    text-align: center;
+
+}
+
+h1{
+    color: blueviolet;
+    font-size: 1.5rem;
+    font-weight: 200;
+    font-family: monospace;
+    /* font-weight: ; */
+    letter-spacing: 8px;
+    margin-top: 2rem;
+    text-emphasis-style: bold;
+    
+}
+
+h2{
+    color: whitesmoke;
+    font-size: 2rem;
+    font-weight: 400;
+    font-family: monospace;
+
+}
+
+img{
+    margin-top: 0.3rem;
+    margin-bottom: 0.3rem;
+    border-radius: 50%;
+    max-width: 100% auto;
+    height: 400px;
+
+}
+
+p{
+    font-size: 1rem;
+    color: white;
+    line-height: 2rem;
+    margin-bottom: 2rem;
+    font-family: monospace;
+    padding-bottom: 3rem;
+
+}
+
+.btn{
+    display: inline-block;
+    padding: 0.2rem 0.2rem;
+    margin-bottom: 1rem;
+    margin-top: 0.5rem;
+    background: whitesmoke;
+    font-size: 1rem;
+    text-decoration: none;
+    color: blue;
+    border-radius: 5px;
+   
+}
+
+footer{
+    padding: 20px;
+    font-size: 40px;
+    /* width: 30px; */
+    /* text-align: center; */
+    text-decoration: none;
+    /* border-radius: 50%; */
+    /* margin-top: 8rem 8 rem; */
+    align-items: center;
+    /* justify-content: space-around; */
+    margin-left: 38%;
+    word-spacing: 3rem;    
+}
+
+.fa{
+    text-decoration: none;
+}
